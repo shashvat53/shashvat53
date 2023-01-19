@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/shashvatsen-422958209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashvat sen" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shashvatsen-422958209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashvat sen" height="30" width="40" /></a>
 <a href="https://instagram.com/_shashvat_sen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shashvat_sen_" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shashvatsen00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shashvatsen00" height="30" width="40" /></a>
 </p>
