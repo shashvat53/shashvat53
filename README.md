@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shashvat sen</h1>
 <h3 align="center">A passionate self-taught Programmer and Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
-- 🔭 I’m currently working on **Food ordering website**
+- 🔭 I’m currently working on **AI Finance Tracker**
 
 - 🌱 I’m currently learning **AI ML**
 
